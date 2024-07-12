@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# connects through ssh with username ubuntu and domain as ip seed
+ssh -i ~/.ssh/school  ubuntu@3.91.201.135
